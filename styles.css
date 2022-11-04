@@ -23,3 +23,13 @@ body {
     padding: 10px;
     border: 1px solid #2a2a2a;
   }
+  images {
+    position: absolute;
+    width: 373.16px;
+    height: 323.7px;
+    left: 215px;
+    top: 1092.3px;
+
+    background: url(.jpg);
+    mix-blend-mode: normal;
+  }
